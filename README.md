@@ -2,7 +2,9 @@
 
 ### 💻 Software Engineer | ☁️ Cloud Enthusiast | 🛡️ Cybersecurity Explorer | 🎓 University of Windsor
 
-![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2gzOXptOWtpemlicnh1bjhoNjYycTQ0bzJkdWQ1NHRoMjRiNTY0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYsgbLhywEXf5IPtkv/giphy.gif)
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2gzOXptOWtpemlicnh1bjhoNjYycTQ0bzJkdWQ1NHRoMjRiNTY0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYsgbLhywEXf5IPtkv/giphy.gif" width="500" alt="Coding GIF">
+</div>
 
 
 ```python
