@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Makhsuma Khamzaliyeva 
+# 🌟 Hi, I'm Makhsuma!
 
 ### 💻 Software Engineer | ☁️ Cloud Enthusiast | 🛡️ Cybersecurity Explorer | 🎓 University of Windsor
 
