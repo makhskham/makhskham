@@ -1,15 +1,41 @@
-<h1 align="center">Hi 👋, I'm Makhsuma Khamzaliyeva</h1>
-<h3 align="center">A passionate software engineer student at UWindsor</h3>
+# 🌟 Hi, I'm Makhsuma Khamzaliyeva 
 
-- 🔭 I’m currently working on **OnCloudKV**
+### 💻 Software Engineer | ☁️ Cloud Enthusiast | 🛡️ Cybersecurity Explorer | 🎓 University of Windsor
 
-- 🌱 I’m currently learning **Machine Learning and Cloud Networking**
+```python
+while True:
+    code()
+    learn()
+    innovate()
 
-- 👯 I’m interested in **Cybersecurity and Software Development**
+## 🚀 Current Projects & Learning
 
-- 🤝 I’m currently studying at the **University of Windsor**
+- 🔧 **Building** [OnCloudKV](https://github.com/makhskham/OnCloudKV) - A cloud-based key-value store (⚡ Performance | ☁️ Scalability)
+- 🤖 **Learning** Machine Learning with TensorFlow/PyTorch (🧠 Neural Networks | 📊 Data Science)
+- ☁️ **Exploring** Cloud Networking (AWS Certified | Azure Fundamentals)
+- 🔒 **Diving into** Cybersecurity (🛡️ Ethical Hacking | 🔐 Cryptography)
 
-- 📫 How to reach me **khamzal@uwindsor.ca**
+## 🛠️ Tech Stack
+
+**Cloud & DevOps:**  
+AWS | Docker | Kubernetes
+
+**Frontend:**  
+React | HTML5 | TailwindCSS
+
+**Backend:**  
+Python | Node.js
+
+**Cybersecurity Tools:**  
+Kali Linux | Wireshark | Ubuntu
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/makhsumakhamzaliyeva)  
+📧 **Email:** khamzal@uwindsor.ca
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
