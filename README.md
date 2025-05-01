@@ -33,6 +33,7 @@ Kali Linux | Wireshark | Ubuntu
 ## 🌐 Connect With Me
 
 📧 **Email:** khamzal@uwindsor.ca
+
 (Personal Email) mkhamzaliyeva@gmail.com
 
 <p align="left">
