@@ -2,8 +2,7 @@
 
 ### 💻 Software Engineer | ☁️ Cloud Enthusiast | 🛡️ Cybersecurity Explorer | 🎓 University of Windsor
 
-```
-python
+```python
 while True:
     code()
     learn()
