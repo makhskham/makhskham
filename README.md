@@ -113,4 +113,5 @@
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-mu-sand.vercel.app/api/top-langs/?username=makhskham&size_weight=0.5&count_weight=0.5&langs_count=10&&hide=powershell,shell,racket,MDX,TEX&layout=compact)](https://github.com/makhskham/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=makhskham&style=for-the-badge)
+
+
