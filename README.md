@@ -7,13 +7,6 @@
 </div>
 
 
-```python
-while True:
-    code()
-    learn()
-    innovate()
-```
-
 ## 🚀 Current Projects & Learning
 
 - 🔧 **Building** [OnCloudKV](https://github.com/makhskham/OnCloudKV) - A cloud-based key-value store (⚡ Performance | ☁️ Scalability)
