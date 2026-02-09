@@ -14,7 +14,6 @@
 - 🤖 **Learning** Machine Learning with TensorFlow/PyTorch (🧠 Neural Networks | 📊 Data Science)
 - ☁️ **Exploring** Cloud Networking (AWS Certified | Azure Fundamentals)
 - 🔒 **Diving into** Cybersecurity (🛡️ Ethical Hacking | 🔐 Cryptography)
-- 👤 **Hobbies** I do mounted archery! 🏹🐎
 
 ## 📧 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khamzal@uwindsor.ca)
