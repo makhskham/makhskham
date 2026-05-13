@@ -16,9 +16,10 @@
 - **Diving into** Cybersecurity (Ethical Hacking | Cryptography)
 
 ## How to reach me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khamzal@uwindsor.ca)
-[![Gmail (Personal)](https://img.shields.io/badge/Gmail%20(Personal)-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkhamzaliyeva@gmail.com)
+[![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khamzal@uwindsor.ca?subject=Hello)
+[![Gmail](https://img.shields.io/badge/Gmail%20Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkhamzaliyeva@gmail.com?subject=Hello)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makhsumakhamzaliyeva)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/makhskham)
 
 ## Tech Stack
 
