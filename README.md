@@ -1,28 +1,28 @@
-# 🌟 Hi! I'm Makhsuma Khamzaliyeva
+# Hi! I'm Makhsuma Khamzaliyeva
 
-### 💻 Software Engineer | ☁️ Cloud Enthusiast | 🛡️ Cybersecurity Explorer | 🎓 University of Windsor
+### Software Engineer | Cloud Enthusiast | Cybersecurity Explorer | 🎓 University of Windsor
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2gzOXptOWtpemlicnh1bjhoNjYycTQ0bzJkdWQ1NHRoMjRiNTY0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYsgbLhywEXf5IPtkv/giphy.gif" width="500" alt="Coding GIF">
 </div>
 
 
-## 🚀 Current Projects & Learning
+## Current Projects & Learning
 
-- 🔧 **Building** [OnCloudKV](https://github.com/makhskham/OnCloudKV) - A cloud-based key-value store (⚡ Performance | ☁️ Scalability)
-- 💼 **Working** Currently an IT co-op student @ Magna International 🏭
-- 🤖 **Learning** Machine Learning with TensorFlow/PyTorch (🧠 Neural Networks | 📊 Data Science)
-- ☁️ **Exploring** Cloud Networking (AWS Certified | Azure Fundamentals)
-- 🔒 **Diving into** Cybersecurity (🛡️ Ethical Hacking | 🔐 Cryptography)
+- **Building** [OnCloudKV](https://github.com/makhskham/OnCloudKV) - A cloud-based key-value store (Performance | Scalability)
+- **Working** Currently an IT Full-Stack Developer co-op student @ Magna International
+- **Learning** Machine Learning with TensorFlow/PyTorch (Neural Networks | Data Science)
+- **Exploring** Cloud Networking (AWS Certified | Azure Fundamentals)
+- **Diving into** Cybersecurity (Ethical Hacking | Cryptography)
 
-## 📧 How to reach me
+## How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khamzal@uwindsor.ca)
 [![Gmail (Personal)](https://img.shields.io/badge/Gmail%20(Personal)-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkhamzaliyeva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makhsumakhamzaliyeva)
 
-## 🖥️ Tech Stack
+## Tech Stack
 
-### 🔣 Languages
+### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -43,7 +43,7 @@
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### 🧩 Framework
+### Framework
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -72,7 +72,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
-### 🛠️ Tools
+### Tools
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
