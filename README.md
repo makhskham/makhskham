@@ -9,7 +9,7 @@
 
 ## Current Projects & Learning
 
-- **Building** [OnCloudKV](https://github.com/makhskham/OnCloudKV) - A cloud-based key-value store (Performance | Scalability)
+- **Building** (away @ Magna)
 - **Working** Currently an IT Full-Stack Developer co-op student @ Magna International
 - **Learning** Machine Learning with TensorFlow/PyTorch (Neural Networks | Data Science)
 - **Exploring** Cloud Networking (AWS Certified | Azure Fundamentals)
