@@ -10,7 +10,7 @@
 ## Current Projects & Learning
 
 - **Building** (away @ Magna)
-- **Working** Currently an IT Full-Stack Developer co-op student @ Magna International
+- **Working** Currently a Software Engineer Full-Stack Developer intern @ Magna International
 - **Learning** Machine Learning with TensorFlow/PyTorch (Neural Networks | Data Science)
 - **Exploring** Cloud Networking (AWS Certified | Azure Fundamentals)
 - **Diving into** Cybersecurity (Ethical Hacking | Cryptography)
